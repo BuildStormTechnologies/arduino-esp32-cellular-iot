@@ -1,0 +1,4 @@
+{
+    "action" : "OTA",
+    "url" : "URL of the binary file"
+}
