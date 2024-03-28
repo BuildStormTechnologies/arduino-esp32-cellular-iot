@@ -15,6 +15,11 @@ Supported features:
 6. Provision by claim
 7. BLE Device Provisioning
 
+## Suppported Modems
+1. Quectel EC200U
+2. Quectel BG95,96
+3. Quectel M66, M95
+
 
 ## Refrences
 1. [Cellular Solution](https://buildstorm.com/solutions/esp32-cellular-aws-iot/)
